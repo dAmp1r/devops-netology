@@ -6,3 +6,5 @@
 #будут игнорироваться файлы crash.log override.tf override.tf.json terraform.rc .terraformrc 
 #файлы с любыми символами между точек crash.*.log
 #
+добавление новой строчки в readme
+-- Добавление строчки с использованием Pycharm --
